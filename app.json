@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "YuruCoin",
+    "slug": "YuruCoin",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.6.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yurucoin.yuru"
+    },
+    "android": {
+      "package": "com.yurucoin.yuru",
+      "versionCode": 6
+    },
+    "notification": {
+     
+      "icon": "./assets/images/bildirim.png"
+  
+
+    },
+    "description": ""
+  }
+  
+}
